@@ -36,6 +36,7 @@ If you have any suggestions, resources, or opportunities related to full-stack d
 
 <p align="center">
 <a href="https://linkedin.com/in/https://linkedin.com/in/khawaja-abdul-moiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/khawaja-abdul-moiz" height="30" width="40" /></a>
+<a href="mailto:contactabdulmoiz2005@gmail.com" target="_blank"><img align="center" src="gmail.png" alt="Email" height="25" width="30" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/contactabdulmoi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/contactabdulmoi1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/khawaja_abdul_moiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/khawaja_abdul_moiz/" height="30" width="40" /></a>
 </p>
