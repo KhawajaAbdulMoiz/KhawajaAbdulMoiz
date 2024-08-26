@@ -9,7 +9,7 @@
 
 
 
-### Welcome to My GitHub Profile!
+## Welcome to My GitHub Profile!
 
 I’m a student at Mohammad Ali Jinnah University, currently pursuing a Bachelor's degree in Computer Science. I’m passionate about full-stack development and enjoy working on both backend solutions and dynamic user interfaces.
 
