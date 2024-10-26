@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khawaja Abdul Moiz</h1>
 <p align="center">
 <a href="https://github.com/khawajaabdulmoiz">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;C%2B%2B+Developer;TypeScript+%26+React+Enthusiast;Exploring+Next.js+%26+Deep+Learning&center=true&width=600&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Certified+Python+Developer;C%2B%2B+Developer;TypeScript+%26+React+Enthusiast;Exploring+Next.js+%26+Deep+Learning&center=true&width=600&height=70">
 </a>
 
 
